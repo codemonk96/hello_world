@@ -1,1 +1,1 @@
-echo Bohemian Rhapsody
+print("Bohemian Rhapsody")
