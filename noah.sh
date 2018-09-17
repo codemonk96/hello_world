@@ -1,5 +1,5 @@
 echo "Its over"
-ping https://www.youtube.com/
-echo date
-echo cal
-echo %H %M %S
+ping https://www.youtube.com
+date
+cal
+%H %M %S
